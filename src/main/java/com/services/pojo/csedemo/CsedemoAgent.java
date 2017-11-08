@@ -26,12 +26,12 @@ public class CsedemoAgent {
     };
 
 
+
     public String sayHi(String name){
 
         // Do Some Magic Here!
-        return null;
+        return "hi, " + name + "! welcome to ServiceStage";
     };
-
 
     public String saySomething(String prefix, Person user){
 
